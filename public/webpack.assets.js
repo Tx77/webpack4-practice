@@ -1,0 +1,1 @@
+window.WEBPACK_ASSETS = {"main":{"js":"/main.1405414157dfa39b1a58.js"},"":{"json":["/66c47bb827d721441da3.hot-update.json","/f5d0981ded9840c385a6.hot-update.json"],"html":"/index.html"}}
